@@ -1,0 +1,11 @@
+{
+  "org": "glue-viz",
+  "repo": "glue-qt-ai",
+  "versions": [
+    {
+      "commit": "90c3ae2ca7d3617c6ffbc52eec694e65eaa84f99",
+      "tag": "",
+      "parsed_at": "2026-10-21T21:35:50.202786+00:00"
+    }
+  ]
+}
